@@ -1,9 +1,3 @@
----
-description: >-
-  The most important parts when receiving and using the Micro for the first
-  time.
----
-
 # Getting Started
 
 {% hint style="success" %}
