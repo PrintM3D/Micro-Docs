@@ -1,7 +1,7 @@
 ---
 description: >-
-  This starting guide will walk you trough the most important parts when
-  receiving and using the Micro for the first time.
+  The most important parts when receiving and using the Micro for the first
+  time.
 ---
 
 # Getting Started
