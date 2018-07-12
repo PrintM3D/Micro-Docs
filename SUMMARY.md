@@ -1,0 +1,23 @@
+# Table of contents
+
+* [Micro Series](README.md)
+* [Software Downloads](software.md)
+* [Getting Started](getting-started/README.md)
+  * [Micro 3D Printer Unboxing Guide](getting-started/micro-3d-printer-unboxing-guide.md)
+  * [Loading and Unloading 3D Ink](getting-started/loading-and-unloading-3d-ink/README.md)
+    * [Print Options](getting-started/loading-and-unloading-3d-ink/print-options.md)
+    * [Removing 3D printed objects](getting-started/loading-and-unloading-3d-ink/removing-3d-printed-objects.md)
+* [Printing Guides](guides/README.md)
+  * [How to manually move print head](guides/how-to-manually-move-print-head.md)
+  * [Printing Google Sketchup STL files](guides/printing-google-sketchup-stl-files/README.md)
+    * [Switching from ABS to PLA filament type](guides/printing-google-sketchup-stl-files/switching-from-abs-to-pla-filament-type.md)
+  * [Printing with Phantom White ABS \(a.k.a. HIPS\)](guides/printing-with-phantom-white-abs-a.k.a.-hips.md)
+  * [Backlash 101](guides/backlash-101.md)
+* [Repair Guides](repair-guides/README.md)
+  * [Manually Level Gantries](repair-guides/manually-level-gantries.md)
+  * [Removing and replacing the print bed](repair-guides/removing-and-replacing-the-print-bed.md)
+  * [Open/Close the Print Head Cove](repair-guides/open-close-the-print-head-cove.md)
+  * [Retrieve internal filament tubing](repair-guides/retrieve-internal-filament-tubing.md)
+  * [Replacing the z-belt](repair-guides/replacing-the-z-belt.md)
+* [Safety / Certification](safety-certification.md)
+
