@@ -6,6 +6,13 @@ description: >-
 
 # Backlash 101
 
+{% hint style="info" %}
+We recommend this video created by one of users.  
+Understanding the Backlash Tower  [https://youtu.be/NdDdhVzleWc](https://youtu.be/NdDdhVzleWc)
+{% endhint %}
+
+
+
 We’re here to help answer all of the questions you have ever had about backlash and why adjusting these settings are so important! In short, backlash is the correction for the slack in the drive systems for the x and y axis. When printing a 3D object, the print head moves in various directions along the x and y axis. This drive system is controlled by several belts and rods and is flexible in nature. Imagine yourself standing still and taking one step backward and then taking one step forward. What is the likelihood that you would have stepped back into that exact same spot? Probably not very likely. This is exactly what happens with your printer! The print head will move backward and then will try to move forward again into the exact same spot, but may be off by just a bit because of the flexibility of the belts and the rods. The backlash settings adjusts and corrects for this flexibility.
 
 Without proper backlash settings, you may end up with circles that aren’t very circular and/or gaps within the print.
@@ -58,7 +65,7 @@ If you are going to be printing anything that is remotely circular in nature, it
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-PDF: [Backlash Guide\_Final\_05.06.2016.pdf](https://support.printm3d.com/scripts/file.php?view=Y&file=3e105a1232182c3c78e82fdb2a8fa6d3)
+{% file src="../.gitbook/assets/backlash-guide\_final\_05.06.2016.pdf" caption="PDF Back Slash 101 Guide" %}
 
 
 

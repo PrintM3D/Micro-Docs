@@ -15,7 +15,7 @@ First, Make sure to take a look at the [Micro 3D Printer Quick Guide.](https://p
 **Download the Latest Version.**
 
 | Windows | [Download](https://printm3d.com/files/software_pro_alpha/Windows/2017-09-21-setup_m3d-V1.8.0.0.exe)  v1.8.0.0  [MD5](https://printm3d.com/files/software_pro_alpha/Windows/2017-09-21-setup_m3d-V1.8.0.0.exe.md5.txt) |
-| --- | --- | --- |
+| :--- | :--- |
 | Linux | [Download](https://printm3d.com/files/software_pro_alpha/Linux/m3drealize_1.8.2-1_amd64.deb)  v1.8.2.0   [MD5](https://printm3d.com/files/software_pro_alpha/Linux/m3drealize_1.8.2-1_amd64.deb.md5.txt)  |
 | Mac | [Download](http://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg)  v1.8.1.0  [MD5](https://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg.md5.txt) |
 
@@ -31,7 +31,7 @@ This software is intended for M3D Micro Printers only.
 **Download the Latest Version**
 
 | Windows | [Download](http://printm3d.com/files/software/Software%20-%20Windows/Windows%20Software%20-%202016-8-03/2016-08-03-setup_m3dbeta-V1.5.1.0.exe) V1.5.1.0 |
-| --- | --- | --- |
+| :--- | :--- |
 | Linux | [Download](http://printm3d.com/files/software/linux/M3D-Linux-1.5.0.70.tar.gz) V1.5.0.70  [Release Notes](http://printm3d.com/files/software/linux/README-1.5.0.70.pdf) |
 | Mac | [Download](http://printm3d.com/files/software/Software%20-%20Mac/Mac%20Software%20-%202016-10-07/2016-10-07-v1.5.2.0-M3D.dmg) V1.5.2.0 |
 
@@ -39,7 +39,7 @@ This software is intended for M3D Micro Printers only.
 **User Manual**
 
 | English  | [Download](http://printm3d.com/files/software/Instructions/M3D%20Manual%20Sept_2015.pdf) |
-| --- | --- |
+| :--- | :--- |
 | Spanish | [Download](http://printm3d.com/files/manual_del_usuario.pdf) |
 {% endtab %}
 {% endtabs %}
