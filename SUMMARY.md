@@ -8,6 +8,7 @@
   * [Print Options](getting-started/print-options.md)
   * [Removing 3D printed objects](getting-started/removing-3d-printed-objects.md)
   * [Websites to download 3D Models](getting-started/websites-to-download-3d-models.md)
+* [STL File Manipulation & 3D Design Software](stl-file-manipulation-and-3d-design-software.md)
 * [Printing Guides](guides/README.md)
   * [How to manually move print head](guides/how-to-manually-move-print-head.md)
   * [Printing Google Sketchup STL files](guides/printing-google-sketchup-stl-files.md)
