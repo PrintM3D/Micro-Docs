@@ -14,7 +14,7 @@ The Gantry Clips \(also known as front gantry protectors\) are printed with each
 
   * _Solution:_ "Recalibrate Bed Location" before printing.
 
-  ![](../.gitbook/assets/image%20%2810%29.png)
+  ![](../.gitbook/assets/image%20%2811%29.png)
 
 * **Broken Carbon Rods** - During shipment, the rods have broken. 
   * _Solution:_ See worst case scenario below.  

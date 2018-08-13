@@ -6,9 +6,9 @@
 
 Various scraper tools can be used to wedge underneath prints and pry prints off. To remove the print, wedge the scraper underneath the printed object to cut the bond between the plastic and the print surface. 
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 **Option 2: Peeling the buildtak adhesive sheet**
 
@@ -19,12 +19,12 @@ Remove the print bed from the printer to peel off of the print surface. First, p
   
 
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
   
 
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 **Option 3: Bending the print bed**
 

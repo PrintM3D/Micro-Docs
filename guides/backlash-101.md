@@ -17,7 +17,7 @@ We’re here to help answer all of the questions you have ever had about backlas
 
 Without proper backlash settings, you may end up with circles that aren’t very circular and/or gaps within the print.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 If you are going to be printing anything that is remotely circular in nature, it is essential that your backlash is adjusted well to prevent these gaps from occurring. There are two settings that you can manually control when it comes to adjusting the backlash. You can control the backlash along the x and y axis as well as the speed of the backlash. The speed adjusts how fast the backlash corrections are applied. If the speed is too fast, it can cause skipping to occur. The y axis can be especially difficult to adjust correctly because it is controlled by belts rather than rigid rods which controls the x axis. If the tension is not exactly the same on each y belt, the values may need to be played around with a bit to get the settings just right.
 
@@ -25,7 +25,7 @@ If you are going to be printing anything that is remotely circular in nature, it
 
  This is where you will be making all of your backlash adjustments:
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
   
  To access these settings you need to do the following:
@@ -49,7 +49,7 @@ If you are going to be printing anything that is remotely circular in nature, it
  When adjusting backlash values, it is very important to keep the calibration print in the same orientation.
 {% endhint %}
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
  The key to getting great backlash is to start from scratch, make minor changes, and keep testing until all of the gaps close.
 
@@ -58,7 +58,7 @@ If you are going to be printing anything that is remotely circular in nature, it
   
  With each minor adjustment, you can see that the gaps are beginning to close:
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
   
  When there are no more gaps, you have successfully adjusted your backlash settings!
