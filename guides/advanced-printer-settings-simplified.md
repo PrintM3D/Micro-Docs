@@ -160,7 +160,7 @@ Printer firmware may not respect these settings under all conditions.
 
 **Support Type:**
 
-* Definition: Selection of support geometric pattern. Zero \(0\) is circles. One \(1\) is lines. Two \(2\) is smiley faces. Three \(3\) is the m3d logo.
+* Definition: Selection of support geometric pattern.
 
 **Use on Model Support:**
 
