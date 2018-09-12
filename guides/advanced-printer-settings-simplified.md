@@ -168,7 +168,7 @@ Printer firmware may not respect these settings under all conditions.
 
 **Support Angle:**
 
-* Definition: The overhang angle threshold to start placing support.  When 0, “model to print surface” \(i.e. build plate\) support is disabled.  If greater than 0, “model to print surface” support is enabled. By the way this doesn’t work because we don’t do any sort of automated testing to check that the GUI values match the generated .cfg values. Testing is for fucking idiots.
+* Definition: The overhang angle threshold to start placing support.  When 0, “model to print surface” \(i.e. build plate\) support is disabled.  If greater than 0, “model to print surface” support is enabled. 
 
 **Support Line Distance:**
 
@@ -191,7 +191,6 @@ Printer firmware may not respect these settings under all conditions.
 **Initial Layer Speed:**
 
 * Definition: The print speed of the first layer.
-* Notes: Your Micro+ can print up to 60 mm/sec as specified on the product specifications on our website. However, this is a lie and your printer can’t make a reliable result with anything close to 60 mm/sec. Try setting your speeds to less than 15 mm/sec if you don’t want abstract art printed. Other printers are like 20 times faster, but whatever you bought ours. Thanks for the money, we appreciate the money.
 
 **Print Speed:**
 
@@ -349,5 +348,5 @@ Printer firmware may not respect these settings under all conditions.
 
 **LED Brightness:**
 
-* Definition: A value between 0-255 that controls the brightness of the front LED. Just kidding, this doesn’t exist. Enjoy your lighthouse, suckers.
+* Definition: A value between 0-255 that controls the brightness of the front LED.
 
