@@ -8,7 +8,7 @@ The [Shark Spool Holder](https://support.printm3d.com/231577-Micro-External-Spoo
 
 The [Rifle Spool Holder ](https://support.printm3d.com/638816-Micro-External-Rifle-Spool-Holder)
 
-The[ Micro Spool Holder ](https://support.printm3d.com/388355-Micro-External-Spool-Holder)
+The[ Original Spool Holder ](https://support.printm3d.com/388355-Micro-External-Spool-Holder)
 
 Whichever look you choose, your external spool holder will be an extremely useful addition to your M3D Micro Series printer.  
 
