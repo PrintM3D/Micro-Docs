@@ -125,7 +125,7 @@ Printer firmware may not respect these settings under all conditions.
 
 * Definition: The amount of vertical lift by the extruder head between each layer, when the time it takes to print a given layer exceeds Minimal Layer Time.
 
-## Shell and Infill {#h.fm09qfc1mzjx}
+## Shell and Infill <a id="h.fm09qfc1mzjx"></a>
 
 **Inset Count:**
 
@@ -152,7 +152,7 @@ Printer firmware may not respect these settings under all conditions.
 
 * Definition: Selection of the infill geometric pattern.
 
-## Support {#h.859uym60sbls}
+## Support <a id="h.859uym60sbls"></a>
 
 **Enable Support:**
 
@@ -182,7 +182,7 @@ Printer firmware may not respect these settings under all conditions.
 
 * Definition: The gapped vertical spacing between support and the model’s solid outline. Increase to lower the adhesion of supports to the model, making them easier to remove.
 
-## Speed {#h.w7heem43lomr}
+## Speed <a id="h.w7heem43lomr"></a>
 
 **Initial Speedup Layers:**
 
@@ -218,7 +218,7 @@ Printer firmware may not respect these settings under all conditions.
 * Definition: Printing speed of the top and bottom layers.
 * Note: Does not include the initial or remaining speedup layers \(above\).
 
-## Raft {#h.1ohod9daxeg6}
+## Raft <a id="h.1ohod9daxeg6"></a>
 
 **Enable Raft:**
 
@@ -288,7 +288,7 @@ Printer firmware may not respect these settings under all conditions.
 
 * Definition: The gapped vertical spacing between the surface of the raft and the first layer of the printed model.  Increase to lower adhesion of the raft to the print.
 
-## Retraction, Fan, and Skirt {#h.2vpv797vhgdw}
+## Retraction, Fan, and Skirt <a id="h.2vpv797vhgdw"></a>
 
 **Retraction Amount:**
 
