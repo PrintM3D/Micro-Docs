@@ -4,6 +4,7 @@
 * [Software Downloads](software.md)
 * [Getting Started](getting-started/README.md)
   * [Micro 3D Printer Unboxing Guide](getting-started/micro-3d-printer-unboxing-guide.md)
+  * [External Spool Holder](getting-started/external-spool-holder.md)
   * [Loading and Unloading 3D Ink](getting-started/loading-and-unloading-3d-ink.md)
   * [Print Options](getting-started/print-options.md)
   * [Removing 3D printed objects](getting-started/removing-3d-printed-objects.md)
