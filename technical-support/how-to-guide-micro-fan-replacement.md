@@ -72,7 +72,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
 ![](https://printm3d.com/solutions/assets/img_5639138236824.png)
 
-      10. Install new fan by dropping fan into the square opening of print bed housing. All fans should be mounted this way and not glued on                    from the outside.  
+      10. Install new fan by dropping fan into the square opening of print bed housing. All fans should be mounted this way and not glued on from the outside.  
             Note: Fan label will face upwards inside the print head housing.
 
 ![](https://printm3d.com/solutions/assets/img_563913a514317.png)
@@ -102,7 +102,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
       18. Replace black silicon heater cover over the nozzle and heating unit.
 
-            Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the                      heating unit into the silicon \(see photo below\).
+            Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the heating unit into the silicon \(see photo below\).
 
 ![](http://m3dhelp.com/support/assets/img_55760c77540c2.png)
 
