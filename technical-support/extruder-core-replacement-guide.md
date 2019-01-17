@@ -75,7 +75,7 @@ Install new extruder core
 
      7. Replace black silicon heater cover over the nozzle and heating unit
 
-      Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the heating unit into the silicon \(see              photo below\).
+      Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the heating unit into the silicon \(see photo below\).
 
 ![](http://m3dhelp.com/support/assets/img_55760c77540c2.png)
 
