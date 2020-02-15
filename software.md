@@ -50,9 +50,8 @@ This software is intended for M3D Micro Printers only.
 {% tab title="Micro + \(Plus\)" %}
 **The M3D Micro+ User Manual.**
 
-[English](https://support.printm3d.com/scripts/file.php?file=941ddb97aee27a5fb56ea065273241b1)
+[English](https://drive.google.com/open?id=1PFgxiMGUPydX-Sgrwn4PyOFbqQlYm-JI)
 
-[Español](https://printm3d.com/storage/app/media/downloads/Manual_del_Usuario.pdf) [M3D Micro+ Manual Feb\_2018 \(2\).pdf](https://support.printm3d.com/scripts/file.php?view=Y&file=941ddb97aee27a5fb56ea065273241b1)
 {% endtab %}
 
 {% tab title="Micro" %}
