@@ -36,19 +36,19 @@ Remove old fan:
 
        2. Locate the black and red fan cable assembly and carefully pull apart the connector without damaging the pins or wires. Check for wire or connector damages. If there are damages to the wire or connector, then your replacement fan may not work correctly.
 
-![](https://printm3d.com/solutions/assets/img_557077f5cda5a.png)
+![](../.gitbook/assets/f1.PNG)
 
      3. Use a small prying tool \(small flat head screwdriver works well\) to carefully unseat the fan from the bottom of the extruder. There are two glue spots on two of the four corners of the fan. 
 
 Note: Newer Micro and Micro+ printers will have the fan mounted internally and it can be removed by using the following steps.
 
-![](https://printm3d.com/solutions/assets/img_557078a1809e6.png)
+![](../.gitbook/assets/f2.PNG)
 
-![](https://printm3d.com/solutions/assets/img_557078d450fe4.png)
+![](../.gitbook/assets/f3.PNG)
 
       4. Once the fan is loose, remove the fan and carefully pull out the red and black fan wires.
 
-![](https://printm3d.com/solutions/assets/img_55707a69534f9.png)
+![](../.gitbook/assets/f4.PNG)
 
       5. Slide off black silicon heater cover from nozzle and heating unit.
 
@@ -70,16 +70,16 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
     9. Remove X housing from print head. If the fan in your printer was mounted from the inside, you can now pull it out. 
 
-![](https://printm3d.com/solutions/assets/img_5639138236824.png)
+![](../.gitbook/assets/f8.PNG)
 
       10. Install new fan by dropping fan into the square opening of print bed housing. All fans should be mounted this way and not glued on                    from the outside.  
             Note: Fan label will face upwards inside the print head housing.
 
-![](https://printm3d.com/solutions/assets/img_563913a514317.png)
+![](../.gitbook/assets/f9.PNG)
 
      11. Replace X housing.
 
-![](https://printm3d.com/solutions/assets/img_563913c4b7e2c.png)
+![](../.gitbook/assets/f10.PNG)
 
        12. Clip fan connector piece back into place matching the wire colors for both connectors.  
               WARNING: Be sure the wire does not come out of the wire connector. If this happens, then please try to lodge the wire back into the connector.
