@@ -4,37 +4,37 @@ In this guide we will explain how to replace the PCB for the M3D Micro+. You wil
 
 1. To remove the upper base \(fluff\) of the printer, you would need a T10 screw driver as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=354baa7778d480924f9134cc5452f8a3)
+![](../.gitbook/assets/p1.PNG)
 
 2. Next you would need to remove the print head \(extruder body\) by removing the X rod and rack from the right side. The left side is glues to the slider so you may not be able to remove the rod and rack from the left side. This is shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=f02d131eff90a12424070a78e25a300f)
+![](../.gitbook/assets/p2.PNG)
 
 Now remove the print head completely from the X rack and rod as shown in the pictures below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=5abc00a83a195f22bad97851e3dbe64f)
+![](../.gitbook/assets/p3.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=def557b861bda9e6711830f264cab9de)
+![](../.gitbook/assets/p4.PNG)
 
 3. Now you would need to remove the printer’s top frame \(also called top chassis\) as shown in the pictures below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=d7e617c153f265069fcb6134a67c04c3)
+![](../.gitbook/assets/p5.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=8de4d26363d49b0ff3bbfa447e11e9aa)
+![](../.gitbook/assets/p6.PNG)
 
 4. Once the top frame is removed, the printer should look like as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=3b87286126d59c5c49c67a90590dc0f6)
+![](../.gitbook/assets/p7.PNG)
 
 5. Now remove the four T10 screws that holds the upper base \(fluff\) to the lower base as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=81a44c190f359563e637336373a0b797)
+![](../.gitbook/assets/p8.PNG)
 
 6. Next detach the fluff from the lower base by pulling it apart very carefully as shown in the pictures below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=5290681d732d530f6a2707833221bf9f)
+![](../.gitbook/assets/p9.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=0ae17db9bc7e486b97c1648da0f52d82)
+![](../.gitbook/assets/p10.PNG)
 
 7. Upper base \(fluff\), lower base and the Z belt and y belt once removed should have looked as shown in the picture below:
 
