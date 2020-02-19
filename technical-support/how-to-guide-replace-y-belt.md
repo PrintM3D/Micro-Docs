@@ -1,6 +1,6 @@
 # How To Guide: Replace Y Belt
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=db56037178ba63a24238934c12a989b7)
+![](../.gitbook/assets/y-1.PNG)
 
 ![](https://support.printm3d.com/scripts/file.php?view=Y&file=77067378e3bc609137c26a7a3f0caf48)
 
