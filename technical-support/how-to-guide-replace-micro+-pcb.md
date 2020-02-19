@@ -38,79 +38,79 @@ Now remove the print head completely from the X rack and rod as shown in the pic
 
 7. Upper base \(fluff\), lower base and the Z belt and y belt once removed should have looked as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=da5e482fbab5900c66b8bf54cbb6810b)
+![](../.gitbook/assets/p11.PNG)
 
 8. Next step is to remove the screw that holds the PCB onto the lower base as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=727eccaf76bc8ac5839ac3516fbc9fb7)
+![](../.gitbook/assets/p12.PNG)
 
 9. Now remove all the cables from the PCB carefully one by one as shown in the picture below. After removing the old PCB, install the new PCB and then put all the cables back on.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=8b9df194a8d357876a162fc149f729c8)
+![](../.gitbook/assets/p13.PNG)
 
 10. Remove the lead screws from the gantries as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=e091caee0ba01e76661f15540d9ddd88)
+![](../.gitbook/assets/p14.PNG)
 
 11. Once all the parts are removed, place the two pulleys on the front left and the back right corners. Make sure that the square pulley sits on the front left and the round pulley sits on the back right as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=ba36d4be1ff7f33d34c75c9a3e8a3a6c)
+![](../.gitbook/assets/p15.PNG)
 
 12. First, install the Y belt as shown in the picture below with the teethes inwards as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=c0bc40725421550f989b33faff2b9d14)
+![](../.gitbook/assets/p16.PNG)
 
 13. Now install the three lead screws and the square rod on the right side of the printer as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=d2736fbbbb208e1eee3509a25ae7d128)
+![](../.gitbook/assets/p17.PNG)
 
 14. Now place the upper base \(fluff\) back on to the lower base as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=66ee6790ab20b0a19dfdac11523b8deb)
+![](../.gitbook/assets/p18.PNG)
 
 15. Thread in the lead screw into the respective gantries as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=a534fc57aa0a1890e36dd15387915e02)
+![](../.gitbook/assets/p19.PNG)
 
 16. Install the gantries on to the lead screws and the square rods on both the left and right side as shown in the pictures below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=78fc3c071f6952158977ea0de545a143)
+![](../.gitbook/assets/p20.PNG)
 
 17. The gantries after being installed should look like as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=bbfec8a8f98f29c3aaaff044f3055f12)
+![](../.gitbook/assets/p21.PNG)
 
 18. Next Install the left square rod as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=8135075dfcbeb11991524a2a6ac832da)
+![](../.gitbook/assets/p22.PNG)
 
 19. This is how the printer should look like once the four threaded rods, tow square rods, and the left and right gantries are installed, as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=dc82d8fa30c4a902903fb89f4b79ef87)
+![](../.gitbook/assets/p23.PNG)
 
 20. Now install the Z belt by mounting it as shown in the pictures below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=c2bf7c24b53e5d49cde3d640b8a284a9)
+![](../.gitbook/assets/p24.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=d9273fe186bd92f50ec57deffedf7370)
+![](../.gitbook/assets/p25.PNG)
 
 21. Now connect the printer to the software and lower the Z axis down so that the top frame and be snapped in into place easily. The picture below shows the position of the gantries after moving them down in the Z axis.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=27d3cd8b900f3cca65672e6b0705b428)
+![](../.gitbook/assets/p26.PNG)
 
 22. Install the grommet at the back of the printer as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=e03179e27a0411ca3fe7aba85ba547d6)
+![](../.gitbook/assets/p27.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=22315b8ea072bdb6bd485e41e2ef9f15)
+![](../.gitbook/assets/p28.PNG)
 
 23. Finally install the top frame and make sure that all the top of the rods snap into the correct holes in the top frame as shown in the picture below:
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=8b473f9bacdc244ed32128f5845c5018)
+![](../.gitbook/assets/p29.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=bb34f222c0e252b67ada425fa976a647)
+![](../.gitbook/assets/p30.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=9f339d29f4b5feb07e2e109735dde3c2)
+![](../.gitbook/assets/p31.PNG)
 
  Updated: Mar 30 \(4 months a
 
