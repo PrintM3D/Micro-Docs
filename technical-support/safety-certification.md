@@ -52,7 +52,7 @@ standards or formal requirements regarding 3D printer safety, the
 ultimate risk is up to the end-user to assume.  Additional information  
 \(liability, disclaimers, safety and warnings, and indemnity terms\) can  
 be found on our website  
-\([http://printm3d.com/index.php?page=terms-of-use](http://printm3d.com/index.php?page=terms-of-use)\), end user manual  
+\([http://printm3d.com/index.php?page=terms-of-use](https://store.printm3d.com/pages/terms-of-use)\), end user manual  
 \([https://micro.printm3d.com/software](https://micro.printm3d.com/software)\), and in our end-user terms of use when  
 installing the M3D software \([https://micro.printm3d.com/software](https://micro.printm3d.com/software)\).
 
