@@ -6,24 +6,24 @@ If your Z-belt is broken or needs replacing, here is a guide on how to swap out 
 1. One side of the x-rods will be glued to the sliders, one side will not.  
 Hold the slider in one hand, and the x-rack in the other.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=33e8d178bc685a821d2c5d2b996130bc)
+![](../.gitbook/assets/micro_1.png)
 
 2. While holding the slider and X Rack, gently pull apart from each other.  
 Please be careful as to not bend the Z Rods, only a small gap is needed.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=d530ab8af5851d0dcd686ed9e9536c98)
+![](../.gitbook/assets/micro_2.png)
 
 3. Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=8e7cd65bf936e6d1475133d4383685e9)
+![](../.gitbook/assets/micro_3.png)
 
 4. Take the print head and begin to slide it off the x-rack towards the end that is free to  
 remove from rack.  
 Set print head aside.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=6e8119cb18c6b6e2c55a1cb8c83e677a)
+![](../.gitbook/assets/micro_4.png)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=0129d87988c23ebfbc162b38810bd294)
+![](../.gitbook/assets/micro_5.png)
 
 5. Next, push down on a corner of the base and pull up on the same corner of the lid to  
 remove the lid \(see picture below for technique\)

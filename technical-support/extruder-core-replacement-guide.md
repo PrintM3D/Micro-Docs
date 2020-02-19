@@ -12,7 +12,7 @@ First, please disconnect the printer from power and USB when performing this rep
 
           not bend the Z Rods, only a small gap is needed.
 
-![](../.gitbook/assets/micro_2.png)
+![](../.gitbook/assets/micro_2%20%281%29.png)
 
       3. Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
