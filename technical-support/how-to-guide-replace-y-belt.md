@@ -14,15 +14,15 @@
 
 ![](../.gitbook/assets/y-7.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=7ec076168d46047f50c05e599a183103)
+![](../.gitbook/assets/y-8.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=9c7078f7777d5710194bd3337ad43bda)
+![](../.gitbook/assets/y-9.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=3ddcd781980567f7038b0fdcb0e1922c)
+![](../.gitbook/assets/y-10.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=a79252ece8fc859da42d30ded6515bc1)
+![](../.gitbook/assets/y-11.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=f89688886665f90cad6b86a2f73f688d)
+![](../.gitbook/assets/y-12.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=9c6a877477c937cdf83d1be5fa731da4)
+![](../.gitbook/assets/y-13.PNG)
 
