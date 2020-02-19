@@ -17,7 +17,7 @@ First, Make sure to take a look at the [Micro 3D Printer Quick Guide.](https://p
 | Windows | [Download](https://www.dropbox.com/sh/2e2k4bevt2449s9/AAA2koPs4hf1hWF784KWeRLua/2017-09-21-setup_m3d-V1.8.0.0.exe?dl=0)  v1.8.0.0  [MD5](https://printm3d.com/files/software_pro_alpha/Windows/2017-09-21-setup_m3d-V1.8.0.0.exe.md5.txt) |
 | :--- | :--- |
 | Linux | [Download](https://printm3d.com/files/software_pro_alpha/Linux/m3drealize_1.8.2-1_amd64.deb)  v1.8.2.0   [MD5](https://printm3d.com/files/software_pro_alpha/Linux/m3drealize_1.8.2-1_amd64.deb.md5.txt) |
-| Mac | [Download](http://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg)  v1.8.1.0  [MD5](https://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg.md5.txt)  \(Not compatible with OSX Mojave/Catalina\) |
+| Mac | [Download](https://www.dropbox.com/sh/2e2k4bevt2449s9/AACA_AXipE0PYCkT4S4_5GQva/2017-10-05-v1.8.1.0-M3D.dmg?dl=0)  v1.8.1.0  [MD5](https://printm3d.com/files/software_pro_alpha/Mac/2017-10-05-v1.8.1.0-M3D.dmg.md5.txt)  \(Not compatible with OSX Mojave/Catalina\) |
 
 [Click here to browse all versions](https://www.dropbox.com/sh/gkdai2t8vz23pbs/AADvTZglDk1LVRXBRN6WVNfea?dl=0)
 {% endtab %}
