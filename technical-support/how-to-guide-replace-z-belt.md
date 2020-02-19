@@ -28,7 +28,7 @@ Set print head aside.
 5. Next, push down on a corner of the base and pull up on the same corner of the lid to  
 remove the lid \(see picture below for technique\)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=53d361b4843d88e061bf1099bba5bd31)
+![](../.gitbook/assets/micro_8.PNG)
 
 6. With the lid removed, you will see the z-belt running around the four pulleys on each  
 threaded rod in the corners. Take a hook tool to grab the belt and slip it up and over the  
@@ -38,16 +38,16 @@ plastic base of the printer.
 
 7. Pull the belt up and over the other corners of the printer and remove
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=94a290c6245d3d2c73e961ab1d9c1494)
+![](../.gitbook/assets/micro_10.PNG)
 
 8. Take new belt and put it around all four threaded rods.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=abb6f55a4a30ff254a73dab24e0040cf)
+![](../.gitbook/assets/micro_11.PNG)
 
 9. Pull down the belt around the plastic edges of the printer and replace belt on all four  
 pulleys.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=7c9061941cb9c6dbd7f94178e1b62c7d)
+![](../.gitbook/assets/micro_12.PNG)
 
 10. Double check belt is not flipped upside down  
 11. Take lid and replace it, aligning all rods into their respective holes  
