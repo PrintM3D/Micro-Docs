@@ -16,7 +16,7 @@ First, please disconnect the printer from power and USB when performing this rep
 
       3. Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
-![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)
+![](../.gitbook/assets/micro_3.png)
 
       4. Slide the extruder body off of the rods and place on your working surface.
 
@@ -24,7 +24,7 @@ Remove existing extruder core
 
        1. Remove black front cover of the extruder body by pinching the sides and pulling from the top part of the cover.
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=1cc8f772d360c45249e9c2d2a5c6d595)
+![](../.gitbook/assets/micro_4.png)
 
 ![](http://m3dhelp.com/support/assets/img_55760b8177b94.png)
 
