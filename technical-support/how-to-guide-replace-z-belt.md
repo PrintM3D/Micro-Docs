@@ -21,9 +21,9 @@ Please be careful as to not bend the Z Rods, only a small gap is needed.
 remove from rack.  
 Set print head aside.
 
-![](../.gitbook/assets/micro_4.png)
+![](../.gitbook/assets/micro_6.PNG)
 
-![](../.gitbook/assets/micro_5.png)
+![](../.gitbook/assets/micro_7.PNG)
 
 5. Next, push down on a corner of the base and pull up on the same corner of the lid to  
 remove the lid \(see picture below for technique\)
