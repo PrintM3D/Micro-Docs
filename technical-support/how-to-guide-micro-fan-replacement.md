@@ -12,17 +12,17 @@ Remove print head from printer:
 
       2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend the Z Rods, only a small gap is needed.
 
-![](https://printm3d.com/solutions/assets/img_5571bd22c1969.png)
+![](../.gitbook/assets/micro_2.png)
 
     3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
-![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)
+![](../.gitbook/assets/micro_3.png)
 
      4. Take the print head and begin sliding it off the x-rack towards the end that is free to remove from rack.
 
-![](https://printm3d.com/solutions/assets/img_557073139a9ee.png)
+![](../.gitbook/assets/micro_6.PNG)
 
-![](https://printm3d.com/solutions/assets/img_5570734bba82f.png)
+![](../.gitbook/assets/micro_7.PNG)
 
        5. Slide the extruder body off of the rods and place on your working surface.
 
