@@ -2,17 +2,17 @@
 
 ![](../.gitbook/assets/y-1.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=77067378e3bc609137c26a7a3f0caf48)
+![](../.gitbook/assets/y-2.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=3c55520cdce80e781bfc8dc653c36c1e)
+![](../.gitbook/assets/y-3.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=39f6e6bc0762b69a8133e82bdd982f65)
+![](../.gitbook/assets/y-4.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=d5db9c66f50f4c24692d2fb42c8961a4)
+![](../.gitbook/assets/y-5.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=cb6657b190abee23ab3f4d9c73369a83)
+![](../.gitbook/assets/y-6.PNG)
 
-![](https://support.printm3d.com/scripts/file.php?view=Y&file=c821d7e05713d7d6777fafc1ee14935e)
+![](../.gitbook/assets/y-7.PNG)
 
 ![](https://support.printm3d.com/scripts/file.php?view=Y&file=7ec076168d46047f50c05e599a183103)
 
