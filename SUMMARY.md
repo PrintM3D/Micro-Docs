@@ -22,7 +22,6 @@
   * [Removing and replacing the print bed](repair-guides/removing-and-replacing-the-print-bed.md)
   * [Open/Close the Print Head Cove](repair-guides/open-close-the-print-head-cove.md)
   * [Retrieve internal filament tubing](repair-guides/retrieve-internal-filament-tubing.md)
-  * [Replacing the z-belt](repair-guides/replacing-the-z-belt.md)
 * [Technical Support](technical-support/README.md)
   * [Manual Calibration Guide](technical-support/manual-calibration-guide.md)
   * [Safety / Certification](technical-support/safety-certification.md)
