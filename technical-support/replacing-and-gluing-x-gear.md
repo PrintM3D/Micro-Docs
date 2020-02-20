@@ -22,9 +22,7 @@ First of all, please disconnect the printer from power and USB when performing t
 
 5. While holding print head, replace X-gear into it's normal position with either a flat head screw driver or another tool
 
-6. Then with a small applicator, place a small drop of super glue at the cent of the gear where the metal motor shaft is visible \(see photo\)
-
-![](https://printm3d.com/solutions/assets/img_56607adfbbff2.png)
+6. Then with a small applicator, place a small drop of super glue at the cent of the gear where the metal motor shaft is visible.
 
 7. Allow the glue to fully dry and then replace the print head repeating the steps above in the reverse order
 
