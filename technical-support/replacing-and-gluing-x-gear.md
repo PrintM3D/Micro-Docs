@@ -13,7 +13,7 @@ First of all, please disconnect the printer from power and USB when performing t
 
    ![](https://printm3d.com/solutions/assets/img_5571bd22c1969.png)
 
-3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.  
+3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders. ![](../.gitbook/assets/micro_3.png)   
  
 
    ![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)

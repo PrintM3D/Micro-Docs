@@ -32,7 +32,6 @@
   * [Heater Position](technical-support/heater-position.md)
   * [How to Guide: Replace Z Belt](technical-support/how-to-guide-replace-z-belt.md)
   * [How To Guide: Replace Y Belt](technical-support/how-to-guide-replace-y-belt.md)
-  * [Steps to Calibrate the Nozzle Tip for the M3D Micro/Micro+/PRO](technical-support/steps-to-calibrate-the-nozzle-tip-for-the-m3d-micro-micro+-pro.md)
   * [Removing Stuck Filament](technical-support/removing-stuck-filament.md)
   * [Micro+ Upgrade Kit Problem \(No Power\)](technical-support/micro+-upgrade-kit-problem-no-power.md)
   * [Mac OS and Mono Info](technical-support/mac-os-and-mono-info.md)
