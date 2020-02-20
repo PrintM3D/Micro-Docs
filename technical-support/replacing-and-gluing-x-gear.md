@@ -18,8 +18,6 @@ First of all, please disconnect the printer from power and USB when performing t
 
    ![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)
 
-![](../.gitbook/assets/micro_3.png)
-
 4. Slide the print head off of the rods and place on your working surface
 
 5. While holding print head, replace X-gear into it's normal position with either a flat head screw driver or another tool
