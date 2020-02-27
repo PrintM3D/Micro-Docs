@@ -49,5 +49,6 @@
   * [How To Guide: Getting Stuck Filament Out Of Print Head](technical-support/how-to-guide-getting-stuck-filament-out-of-print-head.md)
   * [Printer Not Extruding/Underextrusion/Overheating](technical-support/printer-not-extruding-underextrusion-overheating.md)
   * [How to dim front LED light on Micro](technical-support/how-to-dim-front-led-light-on-micro/README.md)
+    * [Serial Number Reset](technical-support/how-to-dim-front-led-light-on-micro/serial-number-reset.md)
     * [Common electronic issues](technical-support/how-to-dim-front-led-light-on-micro/common-electronic-issues.md)
 
