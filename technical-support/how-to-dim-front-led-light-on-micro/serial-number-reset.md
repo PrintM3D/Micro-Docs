@@ -1,6 +1,6 @@
 # Serial Number Reset
 
-Serial File Reset 
+**Serial File Reset** 
 
 Please download and unzip the following file[: ](www.programmingfiletest.com)
 
