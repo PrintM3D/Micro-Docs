@@ -4,7 +4,7 @@
 
 Please download and unzip the following file: 
 
-{% file src="../.gitbook/assets/m3d\_sn\_reset.rar" caption="M3D Serial Number Reset Software" %}
+{% file src="../.gitbook/assets/m3d\_sn\_reset.zip" caption="M3D Serial Number Reset Software" %}
 
 1. Select the bin folder, then select AllSystemsforBaseStation.application.
 
