@@ -2,7 +2,9 @@
 
 **Serial Number Reset Procedure** 
 
-Please download and unzip the following file[: ](www.programmingfiletest.com)
+Please download and unzip the following file: 
+
+{% file src="../.gitbook/assets/m3d\_sn\_reset.rar" caption="M3D Serial Number Reset Software" %}
 
 1. Select the bin folder, then select AllSystemsforBaseStation.application.
 
@@ -19,4 +21,6 @@ Please download and unzip the following file[: ](www.programmingfiletest.com)
 7. Plug the power cord back in and system will state " Please unplug the printer now" in green letters. 
 
 8. Unplug power cord first, and then the USB cord. System will state "Process completed for printer". The PCB now has a new serial number and is ready to use. 
+
+
 
