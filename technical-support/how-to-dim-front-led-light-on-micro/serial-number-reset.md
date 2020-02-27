@@ -2,7 +2,7 @@
 
 Serial File Reset 
 
-Please download and unzip the following files[: ](www.programmingfiletest.com)
+Please download and unzip the following file[: ](www.programmingfiletest.com)
 
 1. Select the bin folder, then select AllSystemsforBaseStation.application.
 
