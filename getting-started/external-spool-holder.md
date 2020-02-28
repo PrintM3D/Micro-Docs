@@ -16,7 +16,11 @@ The Rifle Spool Holder
 
 The[ ](https://support.printm3d.com/388355-Micro-External-Spool-Holder)Original Spool Holder
 
+{% file src="../.gitbook/assets/m3d\_spool\_v3.stl" caption="M3D Spool Holder" %}
+
 Whichever look you choose, your external spool holder will be an extremely useful addition to your M3D Micro Series printer.  
+
+
 
 
 
