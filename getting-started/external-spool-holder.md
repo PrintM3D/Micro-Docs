@@ -4,17 +4,17 @@ M3D recommends printing and utilizing an external spool holder. We have provided
 
 Here are several looks to choose from:
 
-The Spool Shark: 
+The Spool Shark: ![](../.gitbook/assets/shark.jpg)  
 
 {% file src="../.gitbook/assets/m3d\_spool\_sharkv3.stl" caption="M3D Spool Shark Spool Holder" %}
 
 {% file src="../.gitbook/assets/m3d\_spool\_sharkv3-mirror.stl" caption="M3D Spool Shark Spool Holder \(mirror\)" %}
 
-The Rifle Spool Holder
+The Rifle Spool Holder:  ![](../.gitbook/assets/riflesh.jpg)
 
 {% file src="../.gitbook/assets/m3d\_rifle\_v2.stl" caption="M3D Rifle Spool Holder" %}
 
-The[ ](https://support.printm3d.com/388355-Micro-External-Spool-Holder)Original Spool Holder
+The[ ](https://support.printm3d.com/388355-Micro-External-Spool-Holder)Original Spool Holder \(prints as two pieces\):  ![](../.gitbook/assets/spoolholder.jpg)
 
 {% file src="../.gitbook/assets/m3d\_spool\_v3.stl" caption="M3D Spool Holder" %}
 
