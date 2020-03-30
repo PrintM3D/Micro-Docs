@@ -31,7 +31,7 @@ This software is intended for M3D Micro Printers only.
 
 | Windows | [Download](https://www.dropbox.com/sh/2e2k4bevt2449s9/AAApVjqnCnh6No5qddi5a7lRa/2016-08-03-setup_m3dbeta-V1.5.1.0.exe?dl=0) V1.5.1.0 |
 | :--- | :--- |
-| Linux | [Download](http://printm3d.com/files/software/linux/M3D-Linux-1.5.0.70.tar.gz) V1.5.0.70  [Release Notes](http://printm3d.com/files/software/linux/README-1.5.0.70.pdf) |
+| Linux | [Download](https://www.dropbox.com/s/4n0nvwayr1r6kxi/M3D-Linux-1.5.0.70.tar.gz?dl=0) V1.5.0.70  [Release Notes](http://printm3d.com/files/software/linux/README-1.5.0.70.pdf) |
 | Mac | [Download](https://www.dropbox.com/sh/2e2k4bevt2449s9/AAAXQWgQjofFicWVZjAOZheFa/2016-10-07-v1.5.2.0-M3D.dmg?dl=0) V1.5.2.0 |
 
 **User Manual**
