@@ -28,18 +28,18 @@ Below are two tables that display all cheat codes for ABS, PLA, and Chameleon fi
 | Charcoal Black | COY | Onyx Black | WAY |
 | Honey Clear | YAW | Crystal Clear  | WOW |
 
-| **Chameleon 3D Ink**  |   |
-| :--- | :--- |
-| Color |  Software Cheat Code |
-| Dragon Red - Touch 30°C  | DRG |
-| Dragon Red - Hot 60°C  | DRA |
-| Rose Red - Touch 30°C  | ROS |
-| Coral Orange - Touch 30°C  | COR |
-| Coral Orange - Warm 45°C  | CRL |
-| Despicable Yellow - Touch 30°C  | DSP |
-| Monster Green - Touch 30°C  | MON |
-| Genie Blue - Touch 30°C  | GEN |
-| Genie Blue - Ice 15°C  | GNY |
+| **Chameleon 3D Ink**  |   | **Opaque \(PLA\)** |  |
+| :--- | :--- |  :--- |  :--- |
+| Color |  Software Cheat Code | Color  | Software Cheat Code  |
+| Dragon Red - Touch 30°C  | DRG | Fire Truck | HUG |
+| Dragon Red - Hot 60°C  | DRA | Pumpkin Orange | YUM |
+| Rose Red - Touch 30°C  | ROS | Berry Purple | YUM |
+| Coral Orange - Touch 30°C  | COR | Blue Moon | HUG |
+| Coral Orange - Warm 45°C  | CRL | Antique Gold | GLD |
+| Despicable Yellow - Touch 30°C  | DSP | Snake Copper | COP |
+| Monster Green - Touch 30°C  | MON | Apple Green | YUM |
+| Genie Blue - Touch 30°C  | GEN | Sky Blue | YUM |
+| Genie Blue - Ice 15°C  | GNY | Orient Red | HUG |
 | Gargoyle Black - Touch 30°C  | GRG |
 
 **Using Non-M3D Filaments**
