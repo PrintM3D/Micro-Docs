@@ -10,7 +10,7 @@ Comparatively, ABS is better for very small prints \(where fast cooling is neede
 
 **Tables of M3D Filament Cheat Codes** 
 
-Below are two tables that display all cheat codes for ABS, PLA, and Chameleon filament colors, which can be used during the Load Filament process. You can view a couple of chameleon filament videos to learn more about how it works: [Genie Blue - Ice 15C Video](https://www.youtube.com/watch?v=9hHulkFg_Gs) and [Coral Orange - Warm 45C Video](https://www.youtube.com/watch?v=xcd2PSUJw98). If you notice a cheat code displays incorrect information in the M3D software, please contact our [technical support team here](https://support.printm3d.com/submit_ticket). 
+Below are tables that display all cheat codes for ABS, PLA, Opaque PLA, Chameleon and Tough filament colors, which can be used during the Load Filament process. You can view a couple of chameleon filament videos to learn more about how it works: [Genie Blue - Ice 15C Video](https://www.youtube.com/watch?v=9hHulkFg_Gs) and [Coral Orange - Warm 45C Video](https://www.youtube.com/watch?v=xcd2PSUJw98). If you notice a cheat code displays incorrect information in the M3D software, please contact our [technical support team here](https://support.printm3d.com/submit_ticket). 
 
 | **Expert 3D Ink \(ABS\)** |   | **3D Ink \(PLA\)** |   |
 | :--- | :--- | :--- | :--- |
@@ -28,7 +28,7 @@ Below are two tables that display all cheat codes for ABS, PLA, and Chameleon fi
 | Charcoal Black | COY | Onyx Black | WAY |
 | Honey Clear | YAW | Crystal Clear  | WOW |
 
-| **Chameleon 3D Ink**  |   | **Opaque \(PLA\)** |  |
+| **Chameleon 3D Ink**  |   | **Opaque Ink \(PLA\)** |  |
 | :--- | :--- |  :--- |  :--- |
 | Color |  Software Cheat Code | Color  | Software Cheat Code  |
 | Dragon Red - Touch 30°C  | DRG | Fire Truck | HUG |
@@ -41,6 +41,22 @@ Below are two tables that display all cheat codes for ABS, PLA, and Chameleon fi
 | Genie Blue - Touch 30°C  | GEN | Sky Blue | YUM |
 | Genie Blue - Ice 15°C  | GNY | Orient Red | HUG |
 | Gargoyle Black - Touch 30°C  | GRG |
+
+| **Tough 3D Ink™**   |  |
+| :--- | :--- |  
+| Color |  Software Cheat Code |
+| Impact Black  | TGK |
+| Milk White  | TGW |
+| Yoga green  | TGG |
+| Strong Purple  | TGP |
+| Utility Grey  | TGU |
+| Mighty Blue  | TGB |
+| Flexible Ruby  | TGR |
+| Super Blue  | TGB |
+| Durable Clear  | TGC |
+| Raven Purple  | TSP |
+| Orange Heft  | TSO |
+| Rocky Green  | TGG |
 
 **Using Non-M3D Filaments**
 
