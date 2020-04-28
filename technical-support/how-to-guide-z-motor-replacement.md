@@ -2,7 +2,7 @@
 
 If you have decided to replace your Z motor, here is a guide on how to replace it.
 
-1. One side of the x-rods will be glued to the sliders, one side will not.  **Hold** the slider in one hand, and the x-rack in the other.  ![](http://m3dhelp.com/support/assets/img_5570cbdf1efdc.png)
+1. One side of the x-rods will be glued to the sliders, one side will not.  **Hold** the slider in one hand, and the x-rack in the other.  ![](../.gitbook/assets/micro_1.png)
 2. While holding the slider and X Rack, _gently_ **pull** apart from each other.  _Please **be careful** as to not bend the Z Rods, only a **small gap** is needed._  ![](https://printm3d.com/solutions/assets/img_5571bd22c1969.png)
 3.  **Rotate** the slider so the pegs point upwards. The X Axis is now free from the sliders.  ![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)  
 4. **Take** the print head and begin to **slide** it off the x-rack towards the end that is free to remove from rack.  _Set print head aside_.  ![](https://printm3d.com/solutions/assets/img_557073139a9ee.png)     ![](https://printm3d.com/solutions/assets/img_5570734bba82f.png)  
