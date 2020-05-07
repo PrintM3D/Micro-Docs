@@ -4,7 +4,7 @@
 
 Have you noticed the gantry becomes crooked during Y axis movements? It's possible that you just need to manually align them.
 
-![](https://printm3d.com/solutions/assets/img_559d7d20050e0.png)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG1.png)
 
 1. With the printer unplugged, take the horizontal cross bar and slide it to the middle of the printer.
 2. Now, firmly grasp one slider to hold into place and slide the other slider towards the direction of the other to align them Note: some force is required to overcome the friction
