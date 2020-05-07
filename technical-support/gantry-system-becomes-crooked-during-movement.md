@@ -17,11 +17,11 @@ If the sliders become unaligned again or move independently of one another, it i
 
 It is good to know that these two Y belts on the left and right carbon rods are not manufactured as a continuous loop. 
 
-![](https://printm3d.com/solutions/assets/img_5661baa54b34c.png)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG3.png)
 
 Second, the gantry can become crooked during a print job if the small belt inside the base area has been detached from the pulley teeth. There is a belt inside the base \(Y belt\) that connects the left side gantry Y motor to the right side gantry. As you can see in the image below, the smaller Y belt on the motor, which is located underneath the base, is a continuous loop. The Y belt on the motor is most likely the belt that needs to be re-latched onto the pulley teeth. 
 
-![](https://printm3d.com/solutions/assets/img_5661bb66e078a.png)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG4.png)
 
 To fix the Y belt inside the base, please follow the instruction below:
 
