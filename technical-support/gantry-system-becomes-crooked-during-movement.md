@@ -11,7 +11,7 @@ Have you noticed the gantry becomes crooked during Y axis movements? It's possib
 3. You'll hear a little clicking as the slider moves
 4. You can slide the horizontal cross bar to the front of the printer to check that the sliders are aligned similarly to the photo below
 
-![](https://printm3d.com/solutions/assets/img_559d7e09895c1.png)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG2.png)
 
 If the sliders become unaligned again or move independently of one another, it is likely a belt may have broken or jumped off pulley teeth. You can check this by running the Y skip test in the spooler \(Settings Icon&gt;&gt;&gt;Advanced&gt;&gt;&gt;Expert Mode&gt;&gt;&gt;Diagnostics tab\) and see if there is any movement from the right side gantry or if it is just being dragged by the left side gantry. If the Y belt inside the base area is ok then the left or right gantry, which lost it's belt should probably be replaced.
 
