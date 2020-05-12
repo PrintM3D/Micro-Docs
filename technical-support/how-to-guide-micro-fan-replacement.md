@@ -2,7 +2,7 @@
 
 First please disconnect the printer from power and USB when performing this replacement to prevent electric static discharge \(ESD\) damage to the printer. It is recommended you ground yourself before working. 
 
-![](http://m3dhelp.com/support/assets/img_5570cad75255d.png)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F11.png)
 
 Remove print head from printer:
 
