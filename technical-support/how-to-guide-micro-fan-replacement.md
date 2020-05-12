@@ -94,7 +94,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
      15. Place nozzle and Teflon tubing through heating unit and screw nozzle back into the extruder core with the 5mm socket wrench.
 
-![](http://m3dhelp.com/support/assets/img_55760c5adeadb.png)
+![](../.gitbook/assets/F23.png)
 
       16. Tighten nozzle until 1 or 2 threads are showing below the metal housing.
 
@@ -104,7 +104,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
             Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the                      heating unit into the silicon \(see photo below\).
 
-![](http://m3dhelp.com/support/assets/img_55760c77540c2.png)
+![](../.gitbook/assets/F24.png)
 
       Replace extruder into printer:
 
