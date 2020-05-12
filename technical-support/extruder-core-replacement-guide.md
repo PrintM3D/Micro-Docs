@@ -26,11 +26,11 @@ Remove existing extruder core
 
 ![](../.gitbook/assets/micro_4.png)
 
-![](http://m3dhelp.com/support/assets/img_55760b8177b94.png)
+![](../.gitbook/assets/F14.png)
 
         2. Slide off black silicon heater cover from nozzle and heating unit
 
-![](http://m3dhelp.com/support/assets/img_55760ba2e5691.png)
+![](../.gitbook/assets/F15.png)
 
        3. Use a 5mm socket wrench to remove the nozzle from the extruder core
 
@@ -38,15 +38,15 @@ Remove existing extruder core
 
                  while unscrewing the part.
 
-![](http://m3dhelp.com/support/assets/img_55760bd073c91.png)
+![](../.gitbook/assets/F16.png)
 
      4. Carefully remove micro motion chip by gently pulling it up.
 
-![](http://m3dhelp.com/support/assets/img_55760bee31b27.png)
+![](../.gitbook/assets/F17.png)
 
       5. Pull out the extruder core keeping all wires connected.
 
-![](http://m3dhelp.com/support/assets/img_55760c0a05c66.png)
+![](../.gitbook/assets/F18.png)
 
       6. Unplug the wire harness connecting the extruder core to the cable assembly by tugging on the wires gently.   
       Note: Be careful not to break a connector or pull wires out of the connector.
