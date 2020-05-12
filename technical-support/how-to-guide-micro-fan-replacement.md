@@ -52,21 +52,21 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
       5. Slide off black silicon heater cover from nozzle and heating unit.
 
-![](http://m3dhelp.com/support/assets/img_55760ba2e5691.png)
+![](../.gitbook/assets/F15.png)
 
       6. Use a 5mm socket wrench to remove the nozzle from the extruder core.
 
           Note: hold the heating element above the lower part of the nozzle to keep it from spinning with the nozzle while unscrewing the part. 
 
-![](http://m3dhelp.com/support/assets/img_55760bd073c91.png)
+![](../.gitbook/assets/F16.png)
 
      7. Carefully remove micro motion chip by gently pulling it up.
 
-![](http://m3dhelp.com/support/assets/img_55760bee31b27.png)
+![](../.gitbook/assets/F17.png)
 
      8. Pull out the extruder core keeping all wires connected.
 
-![](http://m3dhelp.com/support/assets/img_55760c0a05c66.png)
+![](../.gitbook/assets/F18.png)
 
     9. Remove X housing from print head. If the fan in your printer was mounted from the inside, you can now pull it out. 
 
