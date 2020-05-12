@@ -32,7 +32,7 @@ Remove old fan:
 
 ![](../.gitbook/assets/F13.png)
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F14.png)
+![](../.gitbook/assets/F14.png)
 
        2. Locate the black and red fan cable assembly and carefully pull apart the connector without damaging the pins or wires. Check for wire or connector damages. If there are damages to the wire or connector, then your replacement fan may not work correctly.
 
