@@ -8,7 +8,7 @@ Remove print head from printer:
 
 1. One side of the X Rods will be glued to the sliders, one side will not. Hold the slider in one hand, and the X Rack in the other.
 
-![](http://m3dhelp.com/support/assets/img_5570cbdf1efdc.png)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F12.png)
 
       2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend the Z Rods, only a small gap is needed.
 
