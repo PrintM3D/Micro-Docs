@@ -30,7 +30,7 @@ Remove old fan:
 
 1. Remove black front cover of the extruder body by pinching the sides and pulling from the top part of the cover.
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F13.png)
+![](../.gitbook/assets/F13.png)
 
 ![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F14.png)
 
