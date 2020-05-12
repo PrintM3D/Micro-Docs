@@ -36,7 +36,7 @@ Remove existing extruder core
 
        Note: hold the heating unit above the lower part of the nozzle to keep it from spinning with the nozzle
 
-                 while unscrewing the part.
+             while unscrewing the part.
 
 ![](../.gitbook/assets/F16.png)
 
