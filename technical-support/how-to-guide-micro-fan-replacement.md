@@ -84,11 +84,11 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
        12. Clip fan connector piece back into place matching the wire colors for both connectors.  
               WARNING: Be sure the wire does not come out of the wire connector. If this happens, then please try to lodge the wire back into the connector.
 
- ![](https://printm3d.com/solutions/assets/img_5571d4a13572c.png)![](https://printm3d.com/solutions/assets/img_5571d4d93cb51.png)13. Replace extruder core into extruder body
+ ![](../.gitbook/assets/F19.png)![](../.gitbook/assets/F20.png)13. Replace extruder core into extruder body
 
            Note: place cable assembly grommet on top of extruder core before placing extruder core back into extruder body \(see photo below\).
 
-![](http://m3dhelp.com/support/assets/img_55760c3ec82a1.png)![](https://printm3d.com/solutions/assets/img_563914027fef8.png)
+![](../.gitbook/assets/F21.png)![](../.gitbook/assets/F22.png)
 
      14. Carefully slide micro motion chip back into place along the inside slot of the extruder body.
 
