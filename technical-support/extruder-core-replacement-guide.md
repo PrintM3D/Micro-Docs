@@ -51,7 +51,7 @@ Remove existing extruder core
       6. Unplug the wire harness connecting the extruder core to the cable assembly by tugging on the wires gently.   
       Note: Be careful not to break a connector or pull wires out of the connector.
 
-![](http://m3dhelp.com/support/assets/img_55760c1af3690.png)
+![](../.gitbook/assets/EC1.png)
 
 Install new extruder core
 
@@ -61,13 +61,13 @@ Install new extruder core
 
       Note: place cable assembly grommet on top of extruder core before placing extruder core back into extruder body \(see photo below\).
 
-![](http://m3dhelp.com/support/assets/img_55760c3ec82a1.png)
+![](../.gitbook/assets/EC2.png)
 
       3. Carefully slide micro motion chip back into place along the inside slot of the extruder body.
 
       4. Place nozzle and Teflon tubing through heating unit and screw nozzle back into the extruder core with the 5mm socket wrench.
 
-![](http://m3dhelp.com/support/assets/img_55760c5adeadb.png)
+![](../.gitbook/assets/F23.png)
 
      5. Tighten nozzle until 1 or 2 threads are showing below the metal housing
 
@@ -77,7 +77,7 @@ Install new extruder core
 
       Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the heating unit into the silicon \(see              photo below\).
 
-![](http://m3dhelp.com/support/assets/img_55760c77540c2.png)
+![](../.gitbook/assets/F24.png)
 
 Replace extruder onto the X rods.
 
