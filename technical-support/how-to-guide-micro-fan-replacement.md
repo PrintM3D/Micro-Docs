@@ -2,13 +2,13 @@
 
 First please disconnect the printer from power and USB when performing this replacement to prevent electric static discharge \(ESD\) damage to the printer. It is recommended you ground yourself before working. 
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F11.png)
+![](../.gitbook/assets/F11.png)
 
 Remove print head from printer:
 
 1. One side of the X Rods will be glued to the sliders, one side will not. Hold the slider in one hand, and the X Rack in the other.
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F12.png)
+![](../.gitbook/assets/F12.png)
 
       2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend the Z Rods, only a small gap is needed.
 
