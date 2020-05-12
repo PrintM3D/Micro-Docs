@@ -4,24 +4,24 @@
 
 Have you noticed the gantry becomes crooked during Y axis movements? It's possible that you just need to manually align them.
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG1.png)
+![](../.gitbook/assets/CG1.png)
 
 1. With the printer unplugged, take the horizontal cross bar and slide it to the middle of the printer.
 2. Now, firmly grasp one slider to hold into place and slide the other slider towards the direction of the other to align them Note: some force is required to overcome the friction
 3. You'll hear a little clicking as the slider moves
 4. You can slide the horizontal cross bar to the front of the printer to check that the sliders are aligned similarly to the photo below
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG2.png)
+![](../.gitbook/assets/CG2.png)
 
 If the sliders become unaligned again or move independently of one another, it is likely a belt may have broken or jumped off pulley teeth. You can check this by running the Y skip test in the spooler \(Settings Icon&gt;&gt;&gt;Advanced&gt;&gt;&gt;Expert Mode&gt;&gt;&gt;Diagnostics tab\) and see if there is any movement from the right side gantry or if it is just being dragged by the left side gantry. If the Y belt inside the base area is ok then the left or right gantry, which lost it's belt should probably be replaced.
 
 It is good to know that these two Y belts on the left and right carbon rods are not manufactured as a continuous loop. 
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG3.png)
+![](../.gitbook/assets/CG3.png)
 
 Second, the gantry can become crooked during a print job if the small belt inside the base area has been detached from the pulley teeth. There is a belt inside the base \(Y belt\) that connects the left side gantry Y motor to the right side gantry. As you can see in the image below, the smaller Y belt on the motor, which is located underneath the base, is a continuous loop. The Y belt on the motor is most likely the belt that needs to be re-latched onto the pulley teeth. 
 
-![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/CG4.png)
+![](../.gitbook/assets/CG4.png)
 
 To fix the Y belt inside the base, please follow the instruction below:
 
