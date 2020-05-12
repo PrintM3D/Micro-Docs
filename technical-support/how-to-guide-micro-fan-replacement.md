@@ -30,9 +30,9 @@ Remove old fan:
 
 1. Remove black front cover of the extruder body by pinching the sides and pulling from the top part of the cover.
 
-![](../.gitbook/assets/F13.PNG)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F13.png)
 
-![](../.gitbook/assets/F14.PNG)
+![](https://github.com/PrintM3D/Micro-Docs/blob/master/.gitbook/assets/F14.png)
 
        2. Locate the black and red fan cable assembly and carefully pull apart the connector without damaging the pins or wires. Check for wire or connector damages. If there are damages to the wire or connector, then your replacement fan may not work correctly.
 
