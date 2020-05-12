@@ -6,13 +6,13 @@ First, please disconnect the printer from power and USB when performing this rep
 
           and the X Rack in the other.
 
-![](http://m3dhelp.com/support/assets/img_5570cbdf1efdc.png)
+![](../.gitbook/assets/F12.png)
 
       2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to
 
           not bend the Z Rods, only a small gap is needed.
 
-![](../.gitbook/assets/micro_2%20%281%29.png)
+![](../.gitbook/assets/micro_2.png)
 
       3. Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
