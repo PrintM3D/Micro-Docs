@@ -4,10 +4,10 @@
 
 If one or more of the gantries are not level with the others, here is a guide on how to manually level them.
 
-1. One side of the x-rods will be glued to the sliders, one side will not.  **Hold** the slider in one hand, and the x-rack in the other.  ![](http://m3dhelp.com/support/assets/img_5570cbdf1efdc.png)
-2. While holding the slider and X Rack, _gently_ **pull** apart from each other.  _Please **be careful** as to not bend the Z Rods, only a **small gap** is needed._  ![](https://printm3d.com/solutions/assets/img_5571bd22c1969.png)
-3.  **Rotate** the slider so the pegs point upwards. The X Axis is now free from the sliders.  ![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)  
-4. **Take** the print head and begin to **slide** it off the x-rack towards the end that is free to remove from rack.  _Set print head aside_.  ![](https://printm3d.com/solutions/assets/img_557073139a9ee.png)     ![](https://printm3d.com/solutions/assets/img_5570734bba82f.png)  
+1. One side of the x-rods will be glued to the sliders, one side will not.  **Hold** the slider in one hand, and the x-rack in the other.  ![](../.gitbook/assets/F12.png)
+2. While holding the slider and X Rack, _gently_ **pull** apart from each other.  _Please **be careful** as to not bend the Z Rods, only a **small gap** is needed._  ![](../.gitbook/assets/micro_2.png)
+3.  **Rotate** the slider so the pegs point upwards. The X Axis is now free from the sliders.  ![](../.gitbook/assets/micro_3.png)  
+4. **Take** the print head and begin to **slide** it off the x-rack towards the end that is free to remove from rack.  _Set print head aside_.  ![](../.gitbook/assets/micro_6.PNG)     ![](../.gitbook/assets/micro_7.PNG)  
 5. With printer on and connected, click the gear in the upper right hand corner to access settings  
  
 
