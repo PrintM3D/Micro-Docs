@@ -44,7 +44,7 @@ If one or more of the gantries are not level with the others, here is a guide on
 15. You now want to move the gantries down a bit to replace the lid. Press -50 for the Z and quickly place pressure down on the four threaded rods to keep them from coming out of the pulleys while the gantries are moving down.  
  
 
-    ![](../.gitbook/assets/MLG1.png)
+    ![](../.gitbook/assets/MLG8.png)
 
 16. Once the gantries are lowered, unplug the printer again and replace the lid. Carefully align the rods with their holes, install the four spring washers on the top of the threaded rods only and press down to snap into place.
 17. Replace the print head and recalibrate the bed location before printing
