@@ -57,7 +57,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
 6. Use a 5mm socket wrench to remove the nozzle from the extruder core.
 
-          Note: hold the heating element above the lower part of the nozzle to keep it from spinning with the nozzle while unscrewing the part. 
+Note: hold the heating element above the lower part of the nozzle to keep it from spinning with the nozzle while unscrewing the part. 
 
 ![](../.gitbook/assets/F16.png)
 
@@ -89,7 +89,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
  
  13. Replace extruder core into extruder body
 
-           Note: place cable assembly grommet on top of extruder core before placing extruder core back into extruder body \(see photo below\).
+ Note: place cable assembly grommet on top of extruder core before placing extruder core back into extruder body \(see photo below\).
 
 ![](../.gitbook/assets/F21.png)![](../.gitbook/assets/F22.png)
 
@@ -105,7 +105,7 @@ Note: Newer Micro and Micro+ printers will have the fan mounted internally and i
 
 18. Replace black silicon heater cover over the nozzle and heating unit.
 
-            Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the                      heating unit into the silicon \(see photo below\).
+Note: heating unit should be completely inside silicon cover. It may take some careful pressing with a small screwdriver to get the                      heating unit into the silicon \(see photo below\).
 
 ![](../.gitbook/assets/F24.png)
 
