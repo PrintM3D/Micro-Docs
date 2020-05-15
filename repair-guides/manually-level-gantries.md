@@ -21,7 +21,10 @@ If one or more of the gantries are not level with the others, here is a guide on
  
 
 8. Unplug both usb and power cables from printer for next steps
-9. Next, push down on a corner of the base and pull up on the same corner of the lid to remove the lid \(see picture below for technique\) Note: Take caution when pulling off lid. You do not want to pull the rods out from the base  ![](../.gitbook/assets/MLG2.png)  
+9. Next, push down on a corner of the base and pull up on the same corner of the lid to remove the lid \(see picture below for technique\) Note: Take caution when pulling off lid. You do not want to pull the rods out from the base  
+
+![](../.gitbook/assets/MLG2.png)  
+
 10. With the lid removed, you will see the z-belt running around the four pulleys on each threaded rod in the corners. Take a hook tool to grab the belt and slip it up or down off of the four pulleys \(see photos below\)  
  
 
