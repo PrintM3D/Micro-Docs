@@ -10,22 +10,22 @@ Remove print head from printer:
 
 ![](../.gitbook/assets/F12.png)
 
-2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend
+ 2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend
 the Z Rods, only a small gap is needed.
 
 ![](../.gitbook/assets/micro_2.png)
 
-3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
+ 3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
 ![](../.gitbook/assets/micro_3.png)
 
-4. Take the print head and begin sliding it off the x-rack towards the end that is free to remove from rack.
+ 4. Take the print head and begin sliding it off the x-rack towards the end that is free to remove from rack.
 
 ![](../.gitbook/assets/micro_6.PNG)
 
 ![](../.gitbook/assets/micro_7.PNG)
 
-5. Slide the extruder body off of the rods and place on your working surface.
+ 5. Slide the extruder body off of the rods and place on your working surface.
 
 Remove old fan:
 
