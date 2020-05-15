@@ -28,9 +28,9 @@ If one or more of the gantries are not level with the others, here is a guide on
 10. With the lid removed, you will see the z-belt running around the four pulleys on each threaded rod in the corners. Take a hook tool to grab the belt and slip it up or down off of the four pulleys \(see photos below\)  
  
 
-    ![](../.gitbook/assets/MLG3.png)  
+![](../.gitbook/assets/MLG3.png)  
     
-    ![](../.gitbook/assets/MLG4.png)
+![](../.gitbook/assets/MLG4.png)
 
 11. Now with the belt off, you will be able to spin the threaded rods to move the gantries up or down. The best technique is to get the gantries all the way to the top of the rod where the top of the first thread is just showing \(see photos below\)  
  
@@ -49,7 +49,7 @@ If one or more of the gantries are not level with the others, here is a guide on
 15. You now want to move the gantries down a bit to replace the lid. Press -50 for the Z and quickly place pressure down on the four threaded rods to keep them from coming out of the pulleys while the gantries are moving down.  
  
 
-    ![](../.gitbook/assets/MLG1.png)
+![](../.gitbook/assets/MLG8.png)
 
 16. Once the gantries are lowered, unplug the printer again and replace the lid. Carefully align the rods with their holes, install the four spring washers on the top of the threaded rods only and press down to snap into place.
 17. Replace the print head and recalibrate the bed location before printing
