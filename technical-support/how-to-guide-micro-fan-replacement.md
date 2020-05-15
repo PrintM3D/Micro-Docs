@@ -4,7 +4,7 @@ First please disconnect the printer from power and USB when performing this repl
 
 ![](../.gitbook/assets/F11.png)
 
-Remove print head from printer
+Remove print head from printer.
 
 1. One side of the X Rods will be glued to the sliders, one side will not. Hold the slider in one hand, and the X Rack in the other.
 
