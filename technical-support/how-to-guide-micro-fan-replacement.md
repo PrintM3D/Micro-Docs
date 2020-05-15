@@ -1,5 +1,7 @@
 # How To Guide: Micro fan replacement
 
+
+
 First please disconnect the printer from power and USB when performing this replacement to prevent electric static discharge \(ESD\) damage to the printer. It is recommended you ground yourself before working. 
 
 ![](../.gitbook/assets/F11.png)
