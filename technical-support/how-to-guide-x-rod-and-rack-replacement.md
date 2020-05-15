@@ -17,9 +17,7 @@
 
    _**Note**: Remember which side the x-rack is located for next steps of replacing rods_
 
-   ![](https://printm3d.com/solutions/assets/img_55708ce0ad071.png)
-
-   ![](https://printm3d.com/solutions/assets/img_55708d0b25dec.png)
+   ![](https://printm3d.com/solutions/assets/img_55708ce0ad071.png) ![](https://printm3d.com/solutions/assets/img_55708d0b25dec.png)
 
 6. **Replace** the rods on the pegs in their correct locations with the print head installed.
 7. With the extruder in the MIDDLE of the X-rods, **rotate** the rear X-rod to the tightest position. This will reduce the amount that the extruder wobbles.   
@@ -35,7 +33,7 @@
 
    ![](https://printm3d.com/solutions/assets/img_5571e291b4d09.png)
 
-10. **Flip** the printer over and **glue** SPOT \#1 AND \#2 to the LEFT slider.
+10. **Flip** the printer over and lightly **glue** the rack and rod to the left slider from the bottom.
 
     ![](https://printm3d.com/solutions/assets/img_5571e2c0ecc8d.png)
 
