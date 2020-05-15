@@ -4,18 +4,18 @@ First please disconnect the printer from power and USB when performing this repl
 
 ![](../.gitbook/assets/F11.png)
 
-Remove print head from printer.
+Remove print head from printer:
 
 1. One side of the X Rods will be glued to the sliders, one side will not. Hold the slider in one hand, and the X Rack in the other.
 
 ![](../.gitbook/assets/F12.png)
 
- 2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend
-    the Z Rods, only a small gap is needed.
+2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend
+the Z Rods, only a small gap is needed.
 
 ![](../.gitbook/assets/micro_2.png)
 
- 3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
+ 3. Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.
 
 ![](../.gitbook/assets/micro_3.png)
 
