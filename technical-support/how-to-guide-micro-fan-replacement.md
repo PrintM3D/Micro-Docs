@@ -11,7 +11,7 @@ Remove print head from printer.
 ![](../.gitbook/assets/F12.png)
 
  2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend
-the Z Rods, only a small gap is needed.
+    the Z Rods, only a small gap is needed.
 
 ![](../.gitbook/assets/micro_2.png)
 
