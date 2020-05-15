@@ -35,14 +35,14 @@ If one or more of the gantries are not level with the others, here is a guide on
 11. Now with the belt off, you will be able to spin the threaded rods to move the gantries up or down. The best technique is to get the gantries all the way to the top of the rod where the top of the first thread is just showing \(see photos below\)  
  
 
-    ![](../.gitbook/assets/MLG5.png)
+![](../.gitbook/assets/MLG5.png)
 
-    ![](../.gitbook/assets/MLG6.png)
+![](../.gitbook/assets/MLG6.png)
 
 12. You should now have the gantries looking like this  
  
 
-    ![](../.gitbook/assets/MLG7.png)
+![](../.gitbook/assets/MLG7.png)
 
 13. Replace the belt on all four pulleys being careful not to spin the belt
 14. Plug in the printer and connect to the spooler like before
