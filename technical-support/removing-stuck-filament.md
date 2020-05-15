@@ -12,7 +12,7 @@ If your filament is loaded in between the extruder gear and you can’t remove i
 
 ![](../.gitbook/assets/sf2.PNG)
 
-4. Next us a pair of cutters to cut the filament right underneath the gear \(be careful not to cut the small black tube poking out of the nozzle.
+4. Next use a pair of cutters to cut the filament right underneath the gear \(be careful not to cut the small black tube poking out of the nozzle.
 
 ![](../.gitbook/assets/sf3.PNG)
 
