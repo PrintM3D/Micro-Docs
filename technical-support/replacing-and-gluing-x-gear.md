@@ -2,21 +2,21 @@
 
 First of all, please disconnect the printer from power and USB when performing this replacement to prevent electric static discharge \(ESD\) damage to the printer. It is recommended you ground yourself before working. 
 
-![](http://m3dhelp.com/support/assets/img_5570cad75255d.png)
+![](../.gitbook/assets/F11.png)
 
 1. One side of the X Rods will be glued to the sliders, one side will not. Hold the slider in one hand, and the X Rack in the other.
 
-   ![](http://m3dhelp.com/support/assets/img_5570cbdf1efdc.png)
+   ![](../.gitbook/assets/F12.png)
 
 2. While holding the slider and X Rack, gently pull apart from each other. Please be careful as to not bend the Z Rods, only a small gap is needed.  
  
 
-   ![](https://printm3d.com/solutions/assets/img_5571bd22c1969.png)
+   ![](../.gitbook/assets/micro_2.png)
 
 3.  Rotate the slider so the pegs point upwards. The X Axis is now free from the sliders.    
  
 
-   ![](https://printm3d.com/solutions/assets/img_5571bd3f5d6a0.png)
+   ![](../.gitbook/assets/micro_3.png)
 
 4. Slide the print head off of the rods and place on your working surface
 
