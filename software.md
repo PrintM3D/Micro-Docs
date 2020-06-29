@@ -54,7 +54,7 @@ This software is intended for M3D Micro Printers only.
 {% tab title="Micro" %}
 **The M3D Micro User Manual.**
 
-[English](https://www.dropbox.com/sh/maf6kv4c80fyu0b/AACgrHwtEMnQqtDp57gd10woa/Instructions/M3D%20Manual%20Sept_2015.pdf?dl=0)
+[English](https://drive.google.com/file/d/1ZUBrGPQK_e_zC5bYDYN66d5BImC1TnqQ/view?usp=sharing)
 
 [Español](http://printm3d.com/files/manual_del_usuario.pdf)
 {% endtab %}
