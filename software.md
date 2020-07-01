@@ -1,4 +1,4 @@
-# Software Downloads
+# Software Download
 
 {% hint style="success" %}
 First, Make sure to take a look at the [Micro 3D Printer Quick Guide.](https://printm3d.com/files/Quick_Getting_Started.pdf)
