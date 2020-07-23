@@ -46,7 +46,6 @@
   * [X-Axis Services](technical-support/x-axis-services.md)
   * [Y-Axis Services](technical-support/y-axis-services.md)
   * [Print head dives into print bed](technical-support/print-head-dives-into-print-bed.md)
-  * [How To Guide: Getting Stuck Filament Out Of Print Head](technical-support/how-to-guide-getting-stuck-filament-out-of-print-head.md)
   * [Printer Not Extruding/Underextrusion/Overheating](technical-support/printer-not-extruding-underextrusion-overheating.md)
   * [Serial Number Reset](technical-support/serial-number-reset.md)
   * [How to dim front LED light on Micro](technical-support/how-to-dim-front-led-light-on-micro/README.md)
